@@ -3,6 +3,7 @@ layout: post
 title:  "Life Towards Rails and TECHRISE"
 date:   2016-09-08 18:26:21 +0545
 categories: posts
+permalink: /life-towards-rails-and-techrise/
 ---
 
 I want to start right before joining TECHRISE. Haha long time ago Uh Just Kidding. I am a 19 years old BSC.CS.IT student at ACHS college.  When I was on first semester I was not quite able to get the concept of programming languages. Then after first semester I got a bit of interest on it and after then I have never looked back. I Love programming :) . Back then I learned PHP and start loving web development and since then I always dreamed of becoming a good web developer. After learning the basic of PHP and making two projects out of it I thought of taking my PHP skills at next level. But back then I had a disease of jumping from one language to another. It was like one day I was learning python and on  other I was learning java. Doing so I wasted one year of my life. If I haven't jumped here and there I might would have been better on PHP. But the universe wanted something else it was misguiding me to guide  through the  right path I guess so.
