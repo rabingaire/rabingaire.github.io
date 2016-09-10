@@ -18,7 +18,14 @@ email: rabingaire20@gmail.com
 description: I am a Programmer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rabingaire.me" # the base hostname & protocol for your site
+author: Rabin Gaire
 favicon: "/favicon.ico"
+
+twitter:
+  username: rabin_gaire
+
+gems:
+  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown

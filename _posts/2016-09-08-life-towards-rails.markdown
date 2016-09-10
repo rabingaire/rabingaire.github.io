@@ -2,7 +2,6 @@
 layout: post
 title:  "Life Towards Rails and TECHRISE"
 date:   2016-09-08 18:26:21 +0545
-categories: posts
 permalink: /life-towards-rails-and-techrise/
 ---
 
