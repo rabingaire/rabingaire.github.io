@@ -4,7 +4,6 @@
   <body>
     <div id="wrap">
 
-    {% include facebook-init.html %}
     {% include navbar.html %}
 
 
@@ -16,11 +15,12 @@
           <h5 class="post-time text-center">{{ page.date | date: "%B %-d, %Y" }}</h5>
         </div>
         {{ content }}
+
+        {% include facebookcomment.html %}
       </div>
       <div class="col-md-3"></div>
     </div>
     </div>
-    {% include facebookcomment.html %}
     {% include footer.html %}
   </body>
 </html>
