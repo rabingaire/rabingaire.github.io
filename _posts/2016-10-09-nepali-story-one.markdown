@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "भोगाई"
+title:  "केटि साथि"
 date:   2016-10-09 18:26:21 +0545
 permalink: /story-one/
 ---
