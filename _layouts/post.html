@@ -8,7 +8,9 @@
 
 
     <div class="container-fluid main-data">
-      <div class="col-md-3"></div>
+      <div class="col-md-3 text-center">
+        {% include twitter_embedded.html %}
+      </div>
       <div class="col-md-6 post-content">
         <div class="post-info">
           <h1 class="text-center">{{ page.title }}</h1>
@@ -18,7 +20,9 @@
 
         {% include social.html %}
       </div>
-      <div class="col-md-3"></div>
+      <div class="col-md-3 text-center">
+        {% include feedjit.html %}
+      </div>
     </div>
     </div>
     {% include footer.html %}
