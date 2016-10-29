@@ -8,7 +8,7 @@ permalink: /what-are-coding-bootcamps/
 
 <img src="/images/learntocode.jpg">
 
-What are coding bootcamp? Many of you are wondering what exactly is it. Is it a camp where you were boots and start coding. Haha If it was then it would be a really fun task to do. But sadly It’s not related anywhere near boots. Well then what exactly is it ??
+What are coding bootcamp? Many of you are wondering what exactly is it. Is it a camp where you wear boots and start coding. Haha If it was then it would be a really fun task to do. But sadly It’s not related anywhere near boots. Well then what exactly is it ??
 
 
 Coding Bootcamp is a technical training program where students learn to code as per market need. Bootcamps offers unique curriculum that are based on building stuff not just learning the syntax ( This is what most of the nepalese student learn only syntax ). These bootcamps are so efficient that students are able to solve real world problem using their coding skills. Most of these bootcamps are of 8-12 weeks long designed to learn with efficiency and speed. These bootcamps are so efficient that they are acting as a bridge between college and a job market.    
