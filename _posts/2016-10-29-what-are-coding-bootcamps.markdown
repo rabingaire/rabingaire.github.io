@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "What are Bootcamps?"
+title:  "What are Coding Bootcamps?"
 date:   2016-10-29 20:26:21 +0545
-permalink: /what-are-bootcamps/
+permalink: /what-are-coding-bootcamps/
 ---
 
 
