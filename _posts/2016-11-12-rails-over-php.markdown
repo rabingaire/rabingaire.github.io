@@ -13,7 +13,7 @@ I have been programming for more than 2 years, But among those years I have spen
 ### **PHP:**
 
 
-PHP is most famous for its simplicity and shallow learning curve. You don’t have to configure anything to get started with PHP, all you need is an HTML file change the extension to .php write some PHP code inside <?PHP //code here  ?> Run it on any PHP web server then you are good to go. Deploying PHP is also so easy you just have to FTP the files to the web server and your website is live on the internet. But too much simplicity is bad because you could find people easily who can write PHP, But it’s harder to find people who writes maintainable, scalable and efficient code. It’s because of simplicity PHP is often considered as having sloppy and unmaintainable code. 
+PHP is most famous for its simplicity and shallow learning curve. You don’t have to configure anything to get started with PHP, all you need is an HTML file change the extension to .php write some PHP code inside `<?PHP //code here  ?>` Run it on any PHP web server then you are good to go. Deploying PHP is also so easy you just have to FTP the files to the web server and your website is live on the internet. But too much simplicity is bad because you could find people easily who can write PHP, But it’s harder to find people who writes maintainable, scalable and efficient code. It’s because of simplicity PHP is often considered as having sloppy and unmaintainable code. 
 
 
 PHP has a unique plus point as it is made for the web. Yes PHP is entirely designed for web. Many of the inbuilt functions are there to solve real world web problems. For example, function like md5(), mysql_connect() and  header() these functions make the life of PHP developer a lot easier.
@@ -22,7 +22,7 @@ PHP has a unique plus point as it is made for the web. Yes PHP is entirely desig
 The Bad point about PHP is that it was just a scripting language build to solve web problems and did not use OOP patterns on its earlier age. With PHP, OOP started to become feasible with the release of PHP 4, But really came around with the release of PHP 5. So There have not been a long period since it started using OOP concepts. It’s good that an old and widely popular language started using OOP, but with this comes complexity as most of the newbie developers don’t know how to write OOP PHP creating much more sloppy and unmaintainable code. But there’s another point to remember PHP does have certain coding patterns/rules to be followed by developers being formulated by the PHP community as the years go by, which makes PHP harder and confusing as any other High level programming language. Even though PHP is now trying hard to implement OOP features, it’s developers don’t really care to implement the true power of OOP PHP. 
 
 
-Still with some design flaws and being old PHP is still the most widely used programming language to build web applications. More than 80% of the web today is powered by PHP. But (Truly my opinion) I guess it will not be the case for long enough. As the beautiful tip of the iceberg has hidden its dark face in the water. But out there who loves PHP and want to be a great developer. I suggest ( If you think me worthy) to use its framework rather than sticking with raw PHP. PHP has some great framework that helps it’s developer to use the power of OOP PHP with maintainable and scalable code still keeping the spirit of its simplicity.
+Still with some design flaws and being old PHP is still the most widely used programming language to build web applications. More than 80% of the web today is powered by PHP. But (Truly my opinion) I guess it will not be the case for long enough. As the beautiful tip of the iceberg has hidden its dark face in the water. But out there who loves PHP and want to be a great developer. I suggest (If you think me worthy) to use its framework rather than sticking with raw PHP. PHP has some great framework that helps it’s developer to use the power of OOP PHP with maintainable and scalable code still keeping the spirit of its simplicity.
 
 
 ### **Ruby On Rails aka Rails:** 
@@ -48,7 +48,7 @@ Following some patterns on rails are pain in an ass for new developers as they a
 ### **Conclusion:**
 
 
-Then at last what do I think. It’s really hard to learn Rails but all those pain are worth once you feel comfortable with this amazing framework. I can tell once you get your hands on this amazing framework you are never looking back. Rails, Rocks  (Truly My Opinion ) 
+Then at last what do I think. It’s really hard to learn Rails but all those pain are worth once you feel comfortable with this amazing framework. I can tell once you get your hands on this amazing framework you are never looking back. Rails, Rocks  (Truly My Opinion) 
 
 
 
