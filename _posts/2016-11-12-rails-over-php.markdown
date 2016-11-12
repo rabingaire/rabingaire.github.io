@@ -48,7 +48,7 @@ Following some patterns on rails are pain in an ass for new developers as they a
 ### **Conclusion:**
 
 
-Then at last what do I think. It’s really hard to learn Rails but all those pain are worth once you feel comfortable with this amazing framework. I can tell once you get your hands on this amazing framework you are never looking back. Rails, Rocks  (Truly My Opinion) 
+Then at last what do I think. PHP is easy to learn and has many resources to get started with. It also has cool new frameworks like Laravel. But Rails is really hard to learn but all those pain are worth once you feel comfortable with this amazing framework. Due its cool features like supporting caching out of the box and having a background process makes Rails the best web tool over PHP. I can tell once you get your hands on this amazing framework you are never looking back. Rails, Rocks  (Truly My Opinion) 
 
 
 
