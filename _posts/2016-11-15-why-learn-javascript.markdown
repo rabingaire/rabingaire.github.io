@@ -17,7 +17,7 @@ Why learn JavaScript? Not to be confused with Java, JavaScript is used to build 
 #### **Easy to learn:**
 
 
-Yes JavaScript is one of the easiest languages to learn. Unlike other language you don’t have to set up anything to run your JavaScript code. JavaScript comes pre-installed with modern web browsers. So how do I run JavaScript code? It’s easy (Assuming you know how to write HTML) alongside some HTML throw a bit of JavaScript and run it on a web browser great you have got your first JavaScript running.
+Yes, JavaScript is one of the easiest languages to learn. Unlike other language you don’t have to set up anything to run your JavaScript code. JavaScript comes pre-installed with modern web browsers. So how do I run JavaScript code? It’s easy (Assuming you know how to write HTML) alongside some HTML throw a bit of JavaScript and run it on a web browser great you have got your first JavaScript running.
 
 
 #### **To make websites more user friendly:**
