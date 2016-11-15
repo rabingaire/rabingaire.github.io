@@ -27,6 +27,7 @@ twitter:
 gems:
   - jekyll-seo-tag
   - jekyll-paginate
+  - font-awesome-rails
 
 # Build settings
 markdown: kramdown
