@@ -8,7 +8,7 @@ permalink: /why-learn-javascript/
 
 <img src="/images/learnjs.jpg">
 
-Why learn JavaScript? Not to be confused with Java, JavaScript is used to build interactive websites. Over the years JavaScript has become essential to get into the web development. Furthermore, JavaScript has extended itself into the mobile app development, desktop app development, and game developers hence making it the most useful skill to learn in the field of computer science.
+Why learn JavaScript? Not to be confused with Java, JavaScript is used to build interactive websites. Over the years JavaScript has become essential to get into the web development. Furthermore, JavaScript has extended itself into the mobile app development, desktop app development, and game development hence making it the most useful skill to learn in the field of computer science.
 
 
 ### **Why JavaScript?** 
