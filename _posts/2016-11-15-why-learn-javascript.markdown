@@ -32,8 +32,10 @@ Animation is a small thing on the sea of things JavaScript could do these days. 
 It’s been a couple of years since JavaScript has started to explode. Once a slow front end scripting language now can handle the backend stuff with its framework called [Node.js](https://nodejs.org/en/) which allows you to create servers with JavaScript. Frameworks like [Ember.js](http://emberjs.com/), [Angular.js](https://angularjs.org/), [React.js](https://facebook.github.io/react/) and [Backbone.js](http://backbonejs.org/) has made a lot easier to solve problems giving wings to its developers explore the world of creativity. 
 
 
-I also should have to mention [JSON](http://www.json.org/) which stands for JavaScript Object Notation. It is used as a popular method to transfer data due to the small file size and the ability to read and write data quickly. Most of the [API](http://readwrite.com/2013/09/19/api-defined/) build today returns and accepts data on this file format.   
-Lots of Job:
+I also should have to mention [JSON](http://www.json.org/) which stands for JavaScript Object Notation. It is used as a popular method to transfer data due to the small file size and the ability to read and write data quickly. Most of the [API](http://readwrite.com/2013/09/19/api-defined/) build today returns and accepts data on this file format.
+
+
+#### **Lots of Job:**
 
 
 Not to mention the use of JavaScript is huge. It has a large number of active community. (At the time of writing this article) JavaScript is a mostly talked language on a largest question and answer site for professional and enthusiast programmers [StackOverflow](http://stackoverflow.com/). 
