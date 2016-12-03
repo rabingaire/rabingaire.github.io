@@ -10,7 +10,7 @@ permalink: /rails-over-php/
 I have been programming for more than 2 years, But among those years I have spent most of my time either learning or doing PHP. I used to love PHP. It is a great programming language, But not good enough to get me to stick around. Then what language do I use for most of the time? Well, it’s Rails. What is Rails aka Ruby on Rails? Rails is a web framework built on top of Ruby programming language. At the time of writing this post I have done Rails for more than 3 months. And comparing those 3 months of experience with Rails and  2 years of experience with PHP, I am happy for last 3 months aka I am happy with Rails. To show you guys why I am happy with Rails over PHP let me describe each language with pros and cons and I will let you guys decide why.
 
 
-### **PHP:**
+## **PHP:**
 
 
 PHP is most famous for its simplicity and shallow learning curve. You don’t have to configure anything to get started with PHP, all you need is an HTML file change the extension to .php write some PHP code inside `<?PHP //code here  ?>` Run it on any PHP web server then you are good to go. Deploying PHP is also so easy you just have to FTP the files to the web server and your website is live on the internet. But too much simplicity is bad because you could find people easily who can write PHP, But it’s harder to find people who writes maintainable, scalable and efficient code. It’s because of simplicity PHP is often considered as having sloppy and unmaintainable code. 
@@ -25,7 +25,7 @@ The Bad point about PHP is that it was just a scripting language build to solve 
 Still with some design flaws and being old PHP is still the most widely used programming language to build web applications. More than 80% of the web today is powered by PHP. But (Truly my opinion) I guess it will not be the case for long enough. As the beautiful tip of the iceberg has hidden its dark face in the water. But out there who loves PHP and want to be a great developer. I suggest (If you think me worthy) to use its framework rather than sticking with raw PHP. PHP has some great framework that helps it’s developer to use the power of OOP PHP with maintainable and scalable code still keeping the spirit of its simplicity.
 
 
-### **Ruby On Rails aka Rails:** 
+## **Ruby On Rails aka Rails:** 
 
 
 It has not been a long period of time since I have started using Rails over PHP, But it has been long enough to tell me that I love Rails. I have found that Rails enables to create beautiful web applications faster, that are maintainable and scalable. It’s based on the Ruby programming language which is truly OOP makes the use of OOP concept and power. Other than that because of its large community and stable nature, it’s a lot easier to find immediate support. 
@@ -45,7 +45,7 @@ Rails also has some bad points as it has a steep learning curve. Yes, Rails is n
 
 Following some patterns on rails are pain in an ass for new developers as they are struggling to learn Rails and also may have to learn CoffeeScript instead of Javascript, SCSS etc. Deploying Rails app is also harder then of PHP. But once you configure the host then you just have to run a single command before your application is live on the internet.  
 
-### **Conclusion:**
+## **Conclusion:**
 
 
 Then at last what do I think. PHP is easy to learn and has many resources to get started with. It also has cool new frameworks like Laravel. Rails is really hard to learn but all those pain are worth once you feel comfortable with this amazing framework. Due to its cool features like supporting caching out of the box and having a background process makes Rails the best web tool over PHP. I can tell once you get your hands on this amazing framework you are never looking back. Rails, Rocks  (Truly My Opinion) 
