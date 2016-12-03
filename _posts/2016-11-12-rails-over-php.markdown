@@ -3,6 +3,7 @@ layout: post
 title:  "Rails over PHP"
 date:   2016-11-12 20:26:21 +0545
 permalink: /rails-over-php/
+description: "Rails over PHP is a comparison between Rails framework and a entire PHP language."
 ---
 
 <img src="/images/railsvsphp.png">

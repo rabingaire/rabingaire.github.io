@@ -2,6 +2,7 @@
 layout: post
 title:  "Why learn JavaScript"
 date:   2016-11-15 20:26:21 +0545
+description: "Why learn JavaScript? Not to be confused with Java, JavaScript is used to build interactive websites. Over the years JavaScript has become essential to get into the web development." 
 permalink: /why-learn-javascript/
 ---
 
