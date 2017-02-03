@@ -14,7 +14,7 @@ I am a junior level developer just trying to learn everything I could get my han
 
 ## **What is Test Driven Development?**
 
-Before talking about Test Driven Development first let us talk about test, here test means software testing. So what exactly is software testing? Talking about the definition software testing is quoted as ” The process of checking whether a system is solving the intendant problem without any bugs ”. In general finding out bugs before the production of the system is called testing.
+Before talking about Test Driven Development first let us talk about test, here test means software testing. So what exactly is software testing? Talking about the definition software testing is quoted as " The process of checking whether a system is solving the intendant problem without any bugs ". In general finding out bugs before the production of the system is called testing.
 
 So Test Driven Development is a process of writing tests even before writing the main production code after writing tests programmer writes the main production code passing all those tests. This cycle is repeated many times which helps programmer write scalable and quality code. Test Driven Development not only helps in maintaining error free code but also helps to re-factor code in a DRY format.
 
