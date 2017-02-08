@@ -17,13 +17,13 @@ We students always focus on learning the syntax. We never write code to solve pr
 
 
 
-## **Join #dailyFiveSolutionOnCodeWars**  
+## **Join `#dailyFiveSolutionOnCodeWars`**  
 
 
-#dailyFiveSolutionOnCodeWars is an idea. An idea where you are committed to solving 5 programming challenges every day. Join CodeWars today, select the language you are comfortable with and start solving problems. It’s now or never. This small step can help sharpen your brain, make you creative and push you forward in becoming a successful programmer. 
+`#dailyFiveSolutionOnCodeWars` is an idea. An idea where you are committed to solving 5 programming challenges every day. Join CodeWars today, select the language you are comfortable with and start solving problems. It’s now or never. This small step can help sharpen your brain, make you creative and push you forward in becoming a successful programmer. 
 
 
 
-You are not bound to submit or show any proof to anyone. Just code in your time. If you get stuck then just tweet or facebook using #dailyFiveSolutionOnCodeWars. If you like this idea then just share with other, the larger the community the better it is. Happy Coding!
+You are not bound to submit or show any proof to anyone. Just code in your time. If you get stuck then just tweet or facebook using `#dailyFiveSolutionOnCodeWars`. If you like this idea then just share with other, the larger the community the better it is. Happy Coding!
 
 `Note: Don’t forget to tweet or facebook #dailyFiveSolutionOnCodeWars once you fulfill the daily quota.` 
