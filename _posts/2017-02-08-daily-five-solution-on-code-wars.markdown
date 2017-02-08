@@ -15,7 +15,10 @@ Skill is not about learning the syntax. Skill is an art, where someone implement
 
 We students always focus on learning the syntax. We never write code to solve problems. Have you ever automated your day to day task using code? Most of us have never even thought of something like this before. It’s time to do something new.
 
+
+
 ## **Join #dailyFiveSolutionOnCodeWars**  
+
 
 #dailyFiveSolutionOnCodeWars is an idea. An idea where you are committed to solving 5 programming challenges every day. Join CodeWars today, select the language you are comfortable with and start solving problems. It’s now or never. This small step can help sharpen your brain, make you creative and push you forward in becoming a successful programmer. 
 
