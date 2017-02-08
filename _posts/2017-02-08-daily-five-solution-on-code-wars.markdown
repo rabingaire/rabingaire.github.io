@@ -26,4 +26,4 @@ We students always focus on learning the syntax. We never write code to solve pr
 
 You are not bound to submit or show any proof to anyone. Just code in your time. If you get stuck then just tweet or facebook using #dailyFiveSolutionOnCodeWars. If you like this idea then just share with other, the larger the community the better it is. Happy Coding!
 
-Note: Don’t forget to tweet or facebook #dailyFiveSolutionOnCodeWars once you fulfill the daily quota. 
+`Note: Don’t forget to tweet or facebook #dailyFiveSolutionOnCodeWars once you fulfill the daily quota.` 
