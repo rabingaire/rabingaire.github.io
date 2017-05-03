@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Rabin's Quill
 email: rabingaire20@gmail.com
-description: Hello Welcome I am Rabin Gaire from Nepal, Land of Mountains and a birthplace of lord buddha. I love programming. I am a rails developer. I also love JavaScript. I am familiar with react.js . Taking about a hobby I love to write about stuff (That's why this blog exists).
+description: Hello, I am Rabin Gaire from Nepal, Land of Mountains and a birthplace of lord buddha. I love programming.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rabingaire.me" # the base hostname & protocol for your site
 author: Rabin Gaire
