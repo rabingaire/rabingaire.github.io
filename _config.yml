@@ -17,7 +17,7 @@ title: Rabin's Quill
 email: rabingaire20@gmail.com
 description: Hello, I am Rabin Gaire from Nepal, Land of Mountains and a birthplace of lord buddha. I love programming.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://rabingaire.me" # the base hostname & protocol for your site
+url: "https://rabingaire.me" # the base hostname & protocol for your site
 author: Rabin Gaire
 favicon: "./favicon.ico"
 
