@@ -36,4 +36,4 @@ In above example `a == b` JavaScript finds out that the types don’t match as `
 The `a === b` produces `false` as there is no coercion allowed, hence failing simple value comparison.
 
 
-`Note: Reference taken form book by [Kyle Simpson](https://www.linkedin.com/in/getify) [You Don't Know JS: Up and Going](https://www.amazon.com/You-Dont-Know-JS-Going/dp/1491924462)`
+`Note: Reference taken form book by` [Kyle Simpson](https://www.linkedin.com/in/getify) [You Don't Know JS: Up and Going](https://www.amazon.com/You-Dont-Know-JS-Going/dp/1491924462)
