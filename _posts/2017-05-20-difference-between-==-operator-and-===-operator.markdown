@@ -34,3 +34,6 @@ a === b; //false
 In above example `a == b` JavaScript finds out that the types don’t match as `a` is of `“string”` type and `b` is of `“number”` type, then it coerces one or both values until both type match and then simple value comparison is done. In above example `a == b`, to give the result `true`, you can think JavaScript coerce value and end up with either `11 == 11` or `“11” == “11”`.
 
 The `a === b` produces `false` as there is no coercion allowed, hence failing simple value comparison.
+
+
+`Note: Reference taken form book by [Kyle Simpson](https://www.linkedin.com/in/getify) [You Don't Know JS: Up and Going](https://www.amazon.com/You-Dont-Know-JS-Going/dp/1491924462)`
