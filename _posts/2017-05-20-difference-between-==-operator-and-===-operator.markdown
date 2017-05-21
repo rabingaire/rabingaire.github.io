@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Difference between == and === operators in JavaScript"
-date:   2017-04-01 20:26:21 +0545
+date:   2017-05-20 20:26:21 +0545
 description: "What might be the Difference between == and === operators in JavaScript. The answer is here."
 permalink: /difference-between-==-and-===-operators-in-javaScript/
 ---
