@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://rabingaire.me/sitemap.xml
+Sitemap: https://rabingaire.com.np/sitemap.xml
