@@ -5,23 +5,8 @@
 
 @import "navbar","index","post","footer","footerbottom";
 
-html {
-  text-align: justify;
-  color:#000000;
-}
-
-.main-data {
-  padding:5% 0 0 0;
-}
-
-img {
-  margin:0;
-  max-width:100%;
-}
-
-
-@media(max-width:767px){
-  .main-data {
-    padding:15% 0 0 0;
-  }
+body {
+  font-family: 'Inconsolata', monospace;
+  margin: 0;
+  padding: 0;
 }
