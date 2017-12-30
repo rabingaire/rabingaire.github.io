@@ -1,34 +1,17 @@
-//variables
-
-
-//variables end
-
-.navbar-default
-.navbar-brand,
-.navbar-default
-.navbar-brand:hover {
-  font-size:24px;
-  color: #333333;
+.navbar-wrapper {
+    margin: 50px 0px;
 }
 
-.navbar-default {
-  background-color: #ffffff;
-}
-.navbar-brand {
-  font-family: 'Pacifico', cursive;
-}
-
-.navbar-default
-.navbar-nav{
-  li {
-    a{
-      color: #333333;
-    }
-  }
+.brand-name,
+.brand-name:link,
+.brand-name:visited,
+.brand-name:hover,
+.brand-name:active {
+    color: #000000;
+    text-decoration: none;
 }
 
-.navbar-default
-.navbar-toggle
-.icon-bar {
-  background-color: #333333;
+.work-title {
+    background-color: #000000;
+    color: #FFFFFF;
 }

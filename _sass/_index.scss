@@ -5,36 +5,16 @@
           border-radius: $radius;
 }
 
-.home {
-  border: 1px solid #e7e7e7;
-  @include border-radius(5px);
+body {
+  font-family: 'Inconsolata', monospace;
+  margin: 0;
+  padding: 0;
 }
 
-.page-heading {
-  font-size: 2em;
-  background-color: #1da1f2;
-  color:#FFFFFF;
-}
-
-.post-list {
-  font-size: 18px;
-}
-
-li {
-  list-style: none;
-}
-
-.post-list {
-  padding: 0 5% 0 5%;
-}
-
-.post-meta,
-.post-title,
-.post-preview
-{
-  padding:2% 0 0 0;
-}
-
-.preview {
-  font-size: 14px;
+.post-link,
+.post-link:link,
+.post-linkvisited,
+.post-link:hover,
+.post-link:active {
+  color: #000000;
 }

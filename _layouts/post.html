@@ -3,25 +3,17 @@
   {% include head.html %}
   <body>
     <div id="wrap">
-
-    {% include navbar.html %}
-
-
-    <div class="container-fluid main-data">
-      <div class="col-md-3 text-center">
-      </div>
-      <div class="col-md-6 post-content">
-        <div class="post-info">
-          <h1 class="text-center">{{ page.title }}</h1>
-          <h5 class="post-time text-center">{{ page.date | date: "%B %-d, %Y" }}</h5>
+      {% include navbar.html %}
+      <div class="container">
+        <div class="row justify-content-md-center">
+          <div class="col col-md-6">
+            <h2 class="text-center">{{ page.title }}</h2>
+            <h6 class="text-center">{{ page.date | date: "%B %-d, %Y" }}</h6>
+            <div class="blog-content">{{ content }}</div>
+            {% include social.html %}
+          </div>
         </div>
-        {{ content }}
-
-        {% include social.html %}
       </div>
-      <div class="col-md-3 text-center">
-      </div>
-    </div>
     </div>
     {% include footer.html %}
   </body>

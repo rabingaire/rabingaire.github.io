@@ -3,20 +3,14 @@
   {% include head.html %}
   <body>
     <div id="wrap">
-    {% include navbar.html %}
-
-    <div class="container-fluid main-data">
-      <div class="col-md-1"></div>
-      <div class="col-md-8 page-content">
-        {{ content }}
+      {% include navbar.html %}
+      <div class="container">
+        <div class="row justify-content-md-center">
+          <div class="col-md-8">
+            {{ content }}
+          </div>
+        </div>
       </div>
-      <div class="col-md-3 text-center">
-        {% include twitter_follow_button.html %}
-        {% include livefeed.html %}
-        {% include hit-counter.html %}
-        {% include twitter_embedded.html %}
-      </div>
-    </div>
     </div>
     {% include footer.html %}
   </body>
