@@ -7,7 +7,7 @@ permalink: /perspective-on-test-driven-development-as-a-junior-developer/
 ---
 
 
-<img src="/images/test.jpg">
+<img src="/images/test.jpg" class="img-fluid">
 
 
 I am a junior level developer just trying to learn everything I could get my hands on. I have been coding on rails for like 7 months now. I have had some experience with test driven development, and I find it quite hard topic to grasp on. As a junior level developer, I have always wondered is it worth to write tests, so here I am trying to answer the same question to those junior level developer who is wondering what exactly is Test Driven Development.

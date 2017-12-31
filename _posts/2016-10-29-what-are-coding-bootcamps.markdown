@@ -6,7 +6,7 @@ permalink: /what-are-coding-bootcamps/
 ---
 
 
-<img src="/images/learntocode.jpg">
+<img src="/images/learntocode.jpg" class="img-fluid">
 
 What are coding bootcamp? Many of you are wondering what exactly is it. Is it a camp where you wear boots and start coding. Haha If it was then it would be a really fun task to do. But sadly It’s not related anywhere near boots. Well then what exactly is it ??
 

@@ -6,7 +6,7 @@ permalink: /rails-over-php/
 description: "Rails over PHP is a comparison between Rails framework and a entire PHP language."
 ---
 
-<img src="/images/railsvsphp.png">
+<img src="/images/railsvsphp.png" class="img-fluid">
 
 I have been programming for more than 2 years, But among those years I have spent most of my time either learning or doing PHP. I used to love PHP. It is a great programming language, But not good enough to get me to stick around. Then what language do I use for most of the time? Well, it’s Rails. What is Rails aka Ruby on Rails? Rails is a web framework built on top of Ruby programming language. At the time of writing this post I have done Rails for more than 3 months. And comparing those 3 months of experience with Rails and  2 years of experience with PHP, I am happy for last 3 months aka I am happy with Rails. To show you guys why I am happy with Rails over PHP let me describe each language with pros and cons and I will let you guys decide why.
 
