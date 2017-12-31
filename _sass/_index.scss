@@ -5,3 +5,13 @@
 .post-link:active {
   color: #000000;
 }
+
+.post-list {
+  text-align: justify;
+  margin-top: 0;
+  padding: 0;
+}
+
+.post-list li {
+  list-style-type: none;
+}

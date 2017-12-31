@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#dailyFiveSolutionOnCodeWars"
+title:  "Daily Five Solution On CodeWars"
 date:   2017-02-08 20:26:21 +0545
 description: "#dailyFiveSolutionOnCodeWars is an idea. An idea where you are committed to solving 5 programming challenges every day. Join CodeWars today, select the language you are comfortable with and start solving problems. It’s now or never. This small step can help sharpen your brain, make you creative and push you forward in becoming a successful programmer. 
 "
