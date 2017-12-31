@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Year Resolution"
+title:  "My New Year's Resolution"
 date:   2017-12-31 20:26:21 +0545
 description: "What's my new years resolution?"
 permalink: /new-year-resolution/
