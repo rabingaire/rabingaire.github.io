@@ -1,12 +1,12 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
-
-@import "navbar","index","post","footer","footerbottom";
-
+@import "navbar", "index", "post", "footer", "footerbottom";
+@import url(pastie.css);
 body {
-  font-family: 'Inconsolata', monospace;
+  font-family: "Inconsolata", monospace;
   margin: 0;
   padding: 0;
 }

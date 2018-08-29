@@ -28,6 +28,8 @@ gems:
   - jekyll-seo-tag
   - jekyll-paginate
   - font-awesome-rails
+  - rouge
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
