@@ -6,6 +6,8 @@ description: "Learn how to convert styles files from css to scss in existing ang
 permalink: /css-to-scss-on-existing-angular-project/
 ---
 
+<img src="/images/angular6.jpg" class="img-fluid">
+
 Recently I was working on angular 6 and I stumbled on a problem when I wanted to change my existing project styles settings from `CSS` to `scss`, I looked over the internet but could not figure out how to change those settings, there are solutions for previous versions but with angular 6 not a clue.
 
 Finally, I figured it out and this is how you can change those settings:
