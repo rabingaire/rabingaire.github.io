@@ -39,4 +39,4 @@ So after adding this object the `schematics` looks like this:
 ```
 
 Now when you try to create new components from angular cli it will create a `.scss` file instead of a `.css` file. Other than that if you already had the `.css` file you could manually convert `.css` to `.scss` and point to a right file at `component.ts` by editing `styleUrls` key at `@Component`
-Decorator and also angular has global style file inside `src` folder as `styles.css` don’t forget to convert that into `styles.scss` and change all the pointers to `styles.css` into `styles.scss` on `angular.json` file. Thank you have a great day.
+Decorator and also angular has global style file inside `src` folder as `styles.css` don’t forget to convert that into `styles.scss` and change all the pointers from `styles.css` into `styles.scss` on `angular.json` file. Thank you have a great day.
