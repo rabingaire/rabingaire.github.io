@@ -12,7 +12,7 @@ Finally, I figured it out and this is how you can change those settings:
 
 First, go to `angular.json` file on the project and add this object under `schematics`
 
-{% highlight javascript %}
+{% highlight json %}
 "@schematics/angular:component": {
 "styleext": "scss"
 }
@@ -20,7 +20,7 @@ First, go to `angular.json` file on the project and add this object under `schem
 
 So after adding this object the `schematics` looks like this:
 
-{% highlight javascript %}
+{% highlight json %}
 "schematics": {
 "@schematics/angular:component": {
 "styleext": "scss"
