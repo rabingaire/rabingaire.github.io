@@ -10,8 +10,7 @@
           <div class="col-md-6 blog-content">
             <h2 class="text-center">{{ page.title }}</h2>
             <h6 class="text-center">{{ page.date | date: "%B %-d, %Y" }}</h6>
-            {{ content }}
-            {% include social.html %}
+            {{ content }} {% include social.html %}
           </div>
           <div class="col-md-3"></div>
         </div>

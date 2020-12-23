@@ -1,12 +1,18 @@
 <script
-    type="text/javascript"
-    async defer
-    src="//assets.pinterest.com/js/pinit.js"
+  type="text/javascript"
+  async
+  defer
+  src="//assets.pinterest.com/js/pinit.js"
 ></script>
 
 <div class="share-social">
   <span class="twitter">
-    <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="true">Tweet</a>
+    <a
+      href="https://twitter.com/share"
+      class="twitter-share-button"
+      data-show-count="true"
+      >Tweet</a
+    >
   </span>
 
   <span class="share-google">
@@ -14,35 +20,66 @@
   </span>
 
   <span class="facebook">
-    <div class="fb-share-button" data-href="{{site.url}}{{page.url}}" data-layout="button_count" data-size="small" data-mobile-iframe="true" style="position: relative; top: -7px;">
-      <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}">Share</a>
+    <div
+      class="fb-share-button"
+      data-href="{{site.url}}{{page.url}}"
+      data-layout="button_count"
+      data-size="small"
+      data-mobile-iframe="true"
+      style="position: relative; top: -7px"
+    >
+      <a
+        class="fb-xfbml-parse-ignore"
+        target="_blank"
+        href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}"
+        >Share</a
+      >
     </div>
   </span>
 
   <span class="linkedin">
-    <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+    <script src="//platform.linkedin.com/in.js" type="text/javascript">
+      lang: en_US
+    </script>
     <script type="IN/Share" data-counter="right"></script>
   </span>
 
   <span class="pinterest">
-    <a href="https://www.pinterest.com/pin/create/button/" data-pin-count="beside">
-      <img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" />
+    <a
+      href="https://www.pinterest.com/pin/create/button/"
+      data-pin-count="beside"
+    >
+      <img
+        src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png"
+      />
     </a>
   </span>
 
   <span class="reddit">
-    <script type="text/javascript" src="//www.reddit.com/buttonlite.js?i=5"></script>
+    <script
+      type="text/javascript"
+      src="//www.reddit.com/buttonlite.js?i=5"
+    ></script>
   </span>
 </div>
 
-
 <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11&appId=656159151208814';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+<script>
+  (function (d, s, id) {
+    var js,
+      fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.src =
+      "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11&appId=656159151208814";
+    fjs.parentNode.insertBefore(js, fjs);
+  })(document, "script", "facebook-jssdk");
+</script>
 
-<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5" width="auto"></div>
+<div
+  class="fb-comments"
+  data-href="{{ site.url }}{{ page.url }}"
+  data-numposts="5"
+  width="auto"
+></div>

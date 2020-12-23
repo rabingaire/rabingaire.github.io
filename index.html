@@ -2,17 +2,20 @@
 layout: default
 description: This is a personal Blog of Rabin Gaire and He is ruby on rails programmer.
 ---
+
 <div class="home">
   <h2 class="text-center">Posts</h2>
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
-        <h4>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h4>
-        <h6>{{ post.date | date: "%b %-d, %Y" }}</h6>
-        <p>{{ post.content | strip_html | truncatewords: 30 }}</p>
-      </li>
+    <li>
+      <h4>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"
+          >{{ post.title | escape }}</a
+        >
+      </h4>
+      <h6>{{ post.date | date: "%b %-d, %Y" }}</h6>
+      <p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+    </li>
     {% endfor %}
   </ul>
 </div>
