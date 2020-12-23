@@ -24,7 +24,7 @@ favicon: "./favicon.ico"
 twitter:
   username: rabin_gaire
 
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - font-awesome-rails
